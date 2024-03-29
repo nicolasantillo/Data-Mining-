@@ -5,7 +5,7 @@ Each presentation has a different topic and dataset (except for P2 and P3).
 
 <ol>
 	<li> Focused on Regression.</li>
-	<li>clusters</li>
+	<li>Clusters</li>
 	<li> PCA (principal component analysis) and topics of previous presentations</li>
   <li> MCA (Multiple component analysis) studying drug use in the USA. </li>
   <li> Hidden Markov Model (HMM)</li>
